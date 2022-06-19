@@ -1,1 +1,1 @@
-# odin-recipes
+#  A simple html project to better understand the structure of the sites. The first project of the foundamentals path on The-Odin-Project.
